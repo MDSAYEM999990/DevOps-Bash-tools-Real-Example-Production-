@@ -1,3 +1,5 @@
+
+এটি আপনার দেওয়া organization এর অধীনে যতগুলো Variable Sets আছে, সেগুলোর একটি তালিকা তৈরি করে দেখায়।
 #!/usr/bin/env bash
 #  vim:ts=4:sts=4:sw=4:et
 #  args:
