@@ -1,3 +1,6 @@
+এই স্ক্রিপ্টটি একটি "ডাকপিয়ন" এর মতো কাজ করে। আপনি শুধু বলবেন কি (Key) আর মান (Value) কী হবে, আর সে আপনার হয়ে Terraform Cloud-এর নির্দিষ্ট জায়গায় গিয়ে সেটি আপডেট বা সেট করে দিয়ে আসবে।
+
+
 #!/usr/bin/env bash
 #  vim:ts=4:sts=4:sw=4:et
 #  args: $TERRAFORM_ORGANIZATION $TERRAFORM_VARSET_ID haritest=myvalue
