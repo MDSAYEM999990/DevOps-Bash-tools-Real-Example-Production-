@@ -1,3 +1,6 @@
+অপ্রয়োজনীয় বা পুরনো কনফিগারেশন মুছে ফেলে সিস্টেম পরিষ্কার রাখা"।
+
+
 #!/usr/bin/env bash
 #  vim:ts=4:sts=4:sw=4:et
 #  args: :workspace haritest
