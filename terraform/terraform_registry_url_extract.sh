@@ -1,5 +1,5 @@
 এই ব্যাশ (Bash) স্ক্রিপ্টটির মূল কাজ হলো কোনো টেক্সট, ফাইল বা ইনপুট থেকে Terraform Registry URL খুঁজে বের করা (Extract করা)। এটি মূলত DevOps ইঞ্জিনিয়ার এবং ডেভেলপারদের কাজের গতি বাড়ানোর জন্য একটি ইউটিলিটি (Utility) টুল হিসেবে তৈরি করা হয়েছে।
-
+https://mega.nz/file/IipiyaLR#lkHJ_6UHYaA0HMnp0VMlKQKwwWmgmIPi7qQaMNQ4umw
 
 #!/usr/bin/env bash
 #  vim:ts=4:sts=4:sw=4:et
