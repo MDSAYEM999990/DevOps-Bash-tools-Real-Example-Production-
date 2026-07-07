@@ -1,3 +1,7 @@
+আগের স্ক্রিপ্টটির কাজ ছিল টেক্সট বা ফাইল থেকে Terraform Registry URL-টি খুঁজে বের করা (Extract করা), আর এই স্ক্রিপ্টটির মূল কাজ হলো সেই ইউআরএলটিকে স্বয়ংক্রিয়ভাবে ব্রাউজারে ওপেন করা (Open করা)।
+
+MORE DETAILS : https://mega.nz/file/AuxGEKLB#O37rCc9dC9nJl-33EYJ9F32Pe9BM__Zf3MbEmOfJ7A8
+
 #!/usr/bin/env bash
 #  vim:ts=4:sts=4:sw=4:et
 #
